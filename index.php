@@ -2,19 +2,19 @@
 
 <html lang="vi">
 <head>
-    <link href='https://i.imgur.com/fsh3H2z.jpeg' rel='icon' type='image/x-icon'/>
+    <link href='https://i.imgur.com/D8ydfFk.jpeg' rel='icon' type='image/x-icon'/>
     <body>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEB API BOT - TuanDeepTry</title>
-    <meta content='Web API Của Tuấn DeepTry !' property='og:title' />
-    <meta content='https://tuandz2250api.herokuapp.com/' property='og:url' />
-    <meta content='Web Của TuanDeepTry !' property='og:site_name' />
-    <meta content='https://i.imgur.com/U5btS0I.jpeg' property='og:image' />
+    <title>Lê Công Quyền - Web api</title>
+    <meta content='Web api Của Lê Công Quyền !' property='og:title' />
+    <meta content='http://quyenkaneki-api.herokuapp.com/' property='og:url' />
+    <meta content='Web Của Lê Công Quyền !' property='og:site_name' />
+    <meta content='https://i.imgur.com/K7jN1t9.jpeg' property='og:image' />
     <meta content='website' property='og:type' />
     <link rel="dns-prefetch" href="//github" >
-    <link rel="dns-prefetch" href="https://tuandz2250api.herokuapp.com/" >
+    <link rel="dns-prefetch" href="https://quyenkaneki-api.herokuapp.com/" >
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net" >
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ngocminhvn/all/snow.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.css"/>
@@ -23,15 +23,15 @@
         @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
         .name {font-family: 'Nunito Sans', sans-serif !important;}
     </style>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
-        <div class="snowflake"><img height="17px" src="https://i.imgur.com/fGjtwiH.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
+        <div class="snowflake"><img height="17px" src="https://i.imgur.com/8kTLV1P.png" alt="hoa" /></div>
 
     </div>
 
@@ -249,15 +249,15 @@
                     }
                 }
             }, shortcut.add("Ctrl+U", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://quyenkaneki-api.herokuapp.com"
             }), shortcut.add("F12", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://quyenkaneki-api.herokuapp.com"
             }), shortcut.add("Ctrl+Shift+I", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://quyenkaneki-api.herokuapp.com"
             }), shortcut.add("Ctrl+S", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://quyenkaneki-api.herokuapp.com"
             }), shortcut.add("Ctrl+Shift+C", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://quyenkaneki-api.herokuapp.com"
             });
             //]]>
         </script>
@@ -268,7 +268,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="format-detection" content="telephone=no">
         <meta name="format-detection" content="address=no">
-        <meta name="author" content="nguyen minh tuan">
+        <meta name="author" content="le cong quyen">
 
 
 
@@ -304,7 +304,7 @@
 
         <!-- Header Image -->
         <div class="header-image">
-            <div class="js-parallax" style="background-image: url(https://i.imgur.com/WCDjkTh.jpg);"></div>
+            <div class="js-parallax" style="background-image: url(https://i.pinimg.com/originals/78/f4/f1/78f4f1eb260f437115c640a4aeb58c29.jpg);"></div>
         </div>
         
         <div class="container gutter-top ">
@@ -315,13 +315,13 @@
                         <img class="header__photo-img" src="./img/avatar.jpeg" alt="Quyền My">
                     </div>
                     <div class="header__base-info">
-                        <h2 class="title titl--h1"><b>👾 Minh Tuấn 👾</b></h2>
-                        <div class="skill-item" style="color: #FF66FF;"><b>❤️ Tuấn DeepTry ❤️</b></div>
+                        <h2 class="title titl--h1"><b>Lê Công Quyền</b></h2>
+                        <div class="skill-item" style="color: #EF9D64;"><b>Quyền Kaneki</b></div>
                         <ul class="header__social">
-                            <li><a href="https://www.facebook.com/TuannDzz123" target="_blank"><span class="nav-link-icon mr-1">
+                            <li><a href="https://www.facebook.com/profile.php?id=100077180438067" target="_blank"><span class="nav-link-icon mr-1">
         <i class="icon-img"><img height="20" src="./img/fb.svg"></i>
        </span></a></li>
-                            <li><a href="https://zalo.me/01284198302/" target="_blank"><span class="nav-link-icon mr-1">
+                            <li><a href="https://zalo.me/0969733109/" target="_blank"><span class="nav-link-icon mr-1">
         <i class="icon-img"><img height="20" src="./img/zalo.png"></i>
        </span></a></li>
                         </ul>
@@ -330,22 +330,22 @@
                 </div>
                 <div class="header__right">
                     <ul class="header__contact">
-                        <li><span class="overhead"><i class="icon-img"><img height="25" src="https://i.imgur.com/ZdKtOu4.png"></i></span>
-                            <a href="mailto:kenyrm2250@gmail.com" target="_blank">
-                                <font color="white"><b>kenyrm2250@gmail.com</b></font>
+                        <li><span class="overhead"><i class="icon-img"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"></i></span>
+                            <a href="mailto:vipprokaneki@gmail.com" target="_blank">
+                                <font color="white"><b>vipprokaneki@gmail.com</b></font>
                             </a>
                         </li>
                         <li><span class="overhead"><i class="icon-img"><img height="25" src="https://cdn-icons-png.flaticon.com/128/901/901141.png"></i></span>
-                            <a href="tel:0582607xxx" target="_blank">
-                                <font color="white"><b>0582607xxx</b></font>
+                            <a href="tel:0969733xxx" target="_blank">
+                                <font color="white"><b>0969733xxx</b></font>
                             </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
-                       <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/github.png"></i></span><a href="https://github.com/kenyrm2250" target="_blank"><font color="white"><b>https://github.com/kenyrm2250</b></font></a></li>
+                       <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/github.png"></i></span><a href="https://github.com/quyenkaneki" target="_blank"><font color="white"><b>https://github.com/quyenkaneki</b></font></a></li>
                         <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/puplic.png"></i></span>
-                            <a href="Thành Phố Hồ Chí Minh" target="_blank">
-                                <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>
+                            <a href="Thành Công - Khoái Châu - Hưng Yên" target="_blank">
+                                <font color="white"><b>Thành Công - Khoái Châu - Hưng Yên</b></font>
                             </a>
                         </li>
                     </ul>
@@ -363,15 +363,15 @@
                         <!-- What -->
                         <div class="mt-1">
 
-                            <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
+                            <h3 class="title title--h2 first-title title__separate">Danh sách api</h3>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
-                                        <img src="https://i.postimg.cc/qRzH3516/ca-dao-tuc-ngu-viet-nam-la-gi.jpg" height="55px">
+                                        <img src="" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Cadao 📚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/cadao.php')">COPY</button>
+                                            <h4 class="title title--h4">Api cadao</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/cadao.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -382,8 +382,8 @@
                                     <div class="case-item">
                                         <img src="" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">api thính/h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hearing.php')">COPY</button>
+                                            <h4 class="title title--h4">Api thính</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/hearing.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -395,8 +395,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/XYywzsp3/02d4453f3eb0a76a87148433395b3ec3.gif" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Kiss 😘</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/kiss.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh hôn nhau</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/kiss.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -406,8 +406,8 @@
                                     <div class="case-item">
                                         <img src="https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Đấm 👊</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/punch.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh đấm nhau</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/punch.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -417,8 +417,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/Mc7rWvFv/12334wrwd534wrdf-1.gif" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Tát 🖐️</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/slap.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh tát nhau</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/slap.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -429,8 +429,8 @@
                                     <div class="case-item">
                                         <img src="http://kenh14cdn.com/thumb_w/660/2018/7/19/gif-2-15319836727292050186373.gif" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Đá 🍄</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/spar.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh đá nhau</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/spar.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -441,8 +441,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/SNmDKzr1/hinh-anh-co-gai-cute-1-819x1024.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Xinh ❤️</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gai.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh gái xinh</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -452,8 +452,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/Y96n0Nm0/Cosplay-SINESTREA-Hinh-Nen-Lien-Quan-Mobile-Gameviet.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Cosplay 💓</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/cosplay.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh cosplay</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/cosplay.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -464,8 +464,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/RZHpX2Sy/271889542-634531957885407-4647370421265427089-n.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Video Gái Xinh Tiktok 🍓</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
+                                            <h4 class="title title--h4">Api video gái xinh tiktok</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -476,8 +476,8 @@
                                     <div class="case-item">
                                         <img src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Meme 😂</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/meme.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh meme</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/meme.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>   
@@ -488,8 +488,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Mông To 🍑</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaiditbu.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh gái đít bự</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaiditbu.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>        
@@ -500,8 +500,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Dú Bự 🙈</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaivuto.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh gái vú to</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaivuto.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -512,8 +512,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/WbVjPmKd/269499943-1107188526760116-4609825776308771360-n.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Sexy 💛</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaisexy.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh gái sexy</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaisexy.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -524,8 +524,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/661xKxrd/240527720-153472986999489-1827619954791027325-n-12.gif" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Hentai 💚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hentai.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh hentai</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/hentai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -536,8 +536,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/yN2RtWnT/Bo-Anh-Nude-Girl-Xinh-Dit-Em-Gai-Vu-Bu-1.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Video Sex 💜</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/videosex.php')">COPY</button>
+                                            <h4 class="title title--h4">Api video sex</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/videosex.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -548,21 +548,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/Qd8FPsJz/868h.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Nude 💞</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/nude.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/Y2D9kd7V/QKQYUsx.jpg" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh 6 Múi 🎀</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/saumui.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh nude</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/nude.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -573,8 +560,8 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/N01tYTKr/006amxlyly1fmpz7md3iqj31jk2bc7wk-1537769329620518488446.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Trai 💕</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/trai.php')">COPY</button>
+                                            <h4 class="title title--h4">Api ảnh trai</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/trai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>    
@@ -585,7 +572,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© 2022 Vận Hành Bởi <a href="https://www.facebook.com/TuannDzz123">Nguyễn Minh Tuấn</a></footer>
+                    <footer class="footer">© 2022 Vận Hành Bởi <a href="https://www.facebook.com/profile.php?id=100077180438067">Lê Công Quyền</a></footer>
 
 
                 </div>
