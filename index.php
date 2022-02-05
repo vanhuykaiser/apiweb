@@ -383,7 +383,7 @@
                                         <img src="https://i.postimg.cc/W4YQT7sN/tha-thinh-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Thính 💌</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/poem.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hearing.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
