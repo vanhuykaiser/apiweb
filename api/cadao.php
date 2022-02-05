@@ -273,8 +273,8 @@ $word = array(
 "Xanh không thủng cá đi đằng nào",
 "Có bột mới gột nên hồ",
 "Ôm rơm nặng bụng",
-"Chơi dao sắc có ngày đứt tay"
-"Đời nào bánh đúc có xương\nĐời nào cờ rút lại thương chúng mình."
+"Chơi dao sắc có ngày đứt tay",
+"Đời nào bánh đúc có xương\nĐời nào cờ rút lại thương chúng mình.",
 );
 $tuandz = array_rand($word);
 $tuandeeptry = $word [$tuandz];
