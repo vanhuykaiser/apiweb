@@ -315,7 +315,7 @@
                         <img class="header__photo-img" src="./img/avatar.jpeg" alt="Tuấn Dz">
                     </div>
                     <div class="header__base-info">
-                        <h2 class="title titl--h1"><b>👾 Nguyễn Minh Tuấn 👾</b></h2>
+                        <h2 class="title titl--h1"><b>👾 Minh Tuấn 👾</b></h2>
                         <div class="skill-item" style="color: #FF66FF;"><b>❤️ Tuấn DeepTry ❤️</b></div>
                         <ul class="header__social">
                             <li><a href="https://www.facebook.com/TuannDzz123" target="_blank"><span class="nav-link-icon mr-1">
