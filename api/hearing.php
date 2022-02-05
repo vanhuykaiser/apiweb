@@ -250,8 +250,7 @@ $word = array(
 "Anh thà được một lần ngửi được mùi tóc thơm của em. Anh thà được mộ lần xiết chặt bàn tay của em, anh thà được một lần nếm hương vị ngọt từ nụ hôn của em còn hơn là sống bất tử mà không được điều ấy.",             
 "Chứng nghiện thức đêm cùng nỗi nhớ em, anh đã cố nhưng sửa không được.",                 
 "Anh muốn gửi tin nhắn này đến em hôm nay vì hôm nay anh cảm thấy yêu em nhiều đến bất thường.",      
-"Anh ghét em lắm em biết không? Vì suốt ngày em cứ bay lượn trong đầu anh, làm anh khôn nghĩ được việc gì cả…huhu."
-
+"Anh ghét em lắm em biết không? Vì suốt ngày em cứ bay lượn trong đầu anh, làm anh khôn nghĩ được việc gì cả…huhu.",
 );
 $tuandz = array_rand($word);
 $tuandeeptry = $word [$tuandz];
