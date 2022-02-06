@@ -587,7 +587,8 @@
                     <!-- Footer -->
                     <footer class="footer">© 2022 Vận Hành Bởi <a href="https://www.facebook.com/TuannDzz123">Nguyễn Minh Tuấn</a></footer>
                             
-                            <iframe scrolling="no" width=640 height=180 src=https://zingmp3.vn/embed/song/ZODF6BFD?start=false frameborder="0" allowfullscreen="true"/>>
+                            </video>
+                        <iframe scrolling="no" width=640 height=180 src=https://zingmp3.vn/embed/song/ZODF6BFD?start=false frameborder="0" allowfullscreen="true"/>
                 </div>
             </div>
         </div>
