@@ -325,8 +325,6 @@
         <i class="icon-img"><img height="20" src="./img/zalo.png"></i>
        </span></a></li>
                         </ul>
-                        </video>
-                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                     </div>
                 </div>
@@ -366,6 +364,8 @@
                         <div class="mt-1">
 
                             <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
+                            </video>
+                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
