@@ -275,12 +275,12 @@ $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
 $gaiditbu = array(
 "data" => $tuandeeptry,
-"author" => "Tuấn DeepTry",
+"author" => "TuanDeepTry",
 "success" => "true",
 );
 $rdimg = json_encode($gaiditbu);
 
-$i = ['\/v\/','\/','Tuấn DeepTry'];
-$t = ['/v/','/','Tuấn DeepTry'];
+$i = ['\/v\/','\/','TuanDeepTry'];
+$t = ['/v/','/','TuanDeepTry'];
 $j = str_replace($i, $t, $rdimg);
 echo $j;
