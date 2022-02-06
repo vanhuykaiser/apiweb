@@ -347,7 +347,7 @@
                             <a href="Thành Phố Hồ Chí Minh" target="_blank">
                                 <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>
                                 </video>
-                            <iframe width="900" height="900" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </a>
                         </li>
                     </ul>
