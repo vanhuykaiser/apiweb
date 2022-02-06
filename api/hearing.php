@@ -161,7 +161,7 @@ $poem = array(
 "author" => "Tuấn DeepTry",
 "success" => "true",
 );
-$rdimg = json_encode($poem , JSON_UNESCAPED_UNICODE);
+$rdimg = json_encode($cadao , JSON_UNESCAPED_UNICODE);
 
 $i = ['\/v\/','\/','Tuấn DeepTry'];
 $t = ['/v/','/','Tuấn DeepTry'];
