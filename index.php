@@ -323,7 +323,8 @@
        </span></a></li>
                             <li><a href="https://zalo.me/01284198302/" target="_blank"><span class="nav-link-icon mr-1">
         <i class="icon-img"><img height="20" src="./img/zalo.png"></i>
-       </span></a></li></b></div>
+       </span></a></li>
+                        </div>
                         </ul>
                         </video>
                             <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
