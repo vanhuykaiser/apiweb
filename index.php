@@ -2,7 +2,7 @@
 
 <html lang="vi">
 <head>
-    <link href='https://i.imgur.com/Vm0osHu.jpeg' rel='icon' type='image/x-icon'/>
+    <link href='https://i.imgur.com/fsh3H2z.jpeg' rel='icon' type='image/x-icon'/>
     <body>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
