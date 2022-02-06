@@ -690,7 +690,7 @@ button:focus {
   width: 100%;
 }
 .preloader__progress span {
-  background: #304CFD;
+  background: #FF00FF;
   position: absolute;
   top: 0;
   left: 0;
