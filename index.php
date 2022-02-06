@@ -312,7 +312,7 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="./img/avatar.jpeg" alt="Minh Tuấn">
+                        <img class="header__photo-img" src="./img/avatar.jpeg" alt="Quyền My">
                     </div>
                     <div class="header__base-info">
                         <h2 class="title titl--h1"><b>👾 Minh Tuấn 👾</b></h2>
@@ -345,7 +345,7 @@
                        <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/github.png"></i></span><a href="https://github.com/kenyrm2250" target="_blank"><font color="white"><b>https://github.com/kenyrm2250</b></font></a></li>
                         <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/puplic.png"></i></span>
                             <a href="Thành Phố Hồ Chí Minh" target="_blank">
-                                <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>            
+                                <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>
                             </a>
                         </li>
                     </ul>
@@ -364,7 +364,6 @@
                         <div class="mt-1">
 
                             <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/vNvcywKHyY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -588,6 +587,7 @@
                     <!-- Footer -->
                     <footer class="footer">© 2022 Vận Hành Bởi <a href="https://www.facebook.com/TuannDzz123">Nguyễn Minh Tuấn</a></footer>
 
+
                 </div>
             </div>
         </div>
@@ -626,6 +626,36 @@ function copy(text) {
     <script src="assets/js/common.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.js"></script>
     <script src="assets/demo/plugins-demo.js"></script>
+    <!-- Messenger Plugin chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "1906861699365487");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
 </body>
 
 </html>
