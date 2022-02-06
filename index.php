@@ -614,7 +614,7 @@ function copy(text) {
   document.execCommand("copy");
   document.getElementById("copy").remove();
   Swal.fire(
-  'Good!',
+  'Complete',
   'Đã sao chép thành công!',
   'success'
 )
