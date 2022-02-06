@@ -312,7 +312,9 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="./img/avatar.jpeg" alt="Quyền My">
+                        <img class="header__photo-img" src="./img/avatar.jpeg" alt="Minh Tuấn">
+                        </video>
+                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div class="header__base-info">
                         <h2 class="title titl--h1"><b>👾 Minh Tuấn 👾</b></h2>
@@ -345,9 +347,7 @@
                        <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/github.png"></i></span><a href="https://github.com/kenyrm2250" target="_blank"><font color="white"><b>https://github.com/kenyrm2250</b></font></a></li>
                         <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/puplic.png"></i></span>
                             <a href="Thành Phố Hồ Chí Minh" target="_blank">
-                                <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>
-                                </video>
-                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>            
                             </a>
                         </li>
                     </ul>
