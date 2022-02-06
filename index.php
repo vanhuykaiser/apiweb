@@ -324,8 +324,6 @@
                             <li><a href="https://zalo.me/01284198302/" target="_blank"><span class="nav-link-icon mr-1">
         <i class="icon-img"><img height="20" src="./img/zalo.png"></i>
        </span></a></li>
-                            </video>
-                        <iframe width="1000" height="1000" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </ul>
 
                     </div>
@@ -348,6 +346,8 @@
                         <li><span class="overhead"><i class="icon-img"><img height="25" src="./img/puplic.png"></i></span>
                             <a href="Thành Phố Hồ Chí Minh" target="_blank">
                                 <font color="white"><b>Thành Phố Hồ Chí Minh</b></font>
+                                </video>
+                            <iframe width="900" height="900" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </a>
                         </li>
                     </ul>
