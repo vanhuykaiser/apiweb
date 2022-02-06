@@ -364,8 +364,7 @@
                         <div class="mt-1">
 
                             <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
-                            </video>
-                            <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe scrolling="no" width=auto height=auto src=https://zingmp3.vn/embed/song/ZOAFBWB0?start=true frameborder="0" allowfullscreen="true"/>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
