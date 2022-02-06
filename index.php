@@ -325,6 +325,7 @@
         <i class="icon-img"><img height="20" src="./img/zalo.png"></i>
        </span></a></li>
                         </ul>
+                        </ul>
                         </video>
                             <iframe width="auto" height="auto" src="https://www.youtube.com/embed/vNvcywKHyY0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
