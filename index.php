@@ -602,6 +602,18 @@
                                         </div>
                                     </div>
                                 </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/9XLJrH0N/detail.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Bóp Vú 🤧</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/bopvu.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
                           
                         <!-- Clients -->
