@@ -399,6 +399,18 @@
                                         </div>
                                     </div>
                                 </div> 
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/SsWyrRWG/chuyen-cuoi-1.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Truyện Cười Ngắn 😂</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/truyencuoi.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                               <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Gái 💌</h3>
