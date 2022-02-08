@@ -546,6 +546,18 @@
                                         </div>
                                     </div>
                                 </div> 
+                                    
+                                    
+                                    <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/CxDL1R94/tumblr-peb6js73li1sk6fb9-1280.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Xoa Đầu 😻</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/xoa.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                                 <!-- Case Item -->
