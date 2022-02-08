@@ -449,6 +449,9 @@ $url = array(
 "https://i.postimg.cc/tC4HH8zQ/i3REQPl.jpg",
 "https://i.postimg.cc/9XPML3LG/I8HytB4.jpg",
 "https://i.postimg.cc/VsX1zjM1/IBfQmpC.jpg",
+"https://i.postimg.cc/5tcV98c4/297d00688a10464e1f018.jpg",
+"https://i.postimg.cc/yN9vBZBz/3f89d09c5ae496bacff59.jpg",
+"https://i.postimg.cc/d1Yn0VtZ/ad91868e0cf6c0a899e718.jpg",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
