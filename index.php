@@ -413,7 +413,7 @@
                                 </div>
 
 
-                              <h3 class="title title--h5 first-title title__separate">List API Ảnh Gái, Trai 💌</h3>
+                              <h3 class="title title--h2 first-title title__separate">List API Ảnh Gái, Trai 💌</h3>
                               <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -606,8 +606,6 @@
                                 </div>
 
                                     
-                                <h3 class="title title--h5 first-title title__separate">List API Hành Động 18+ 💌</h3>
-                                <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
