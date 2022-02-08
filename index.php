@@ -363,7 +363,7 @@
                         <!-- What -->
                         <div class="mt-1">
 
-                            <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
+                            <h3 class="title title--h2 first-title title__separate">Danh Sách API Thính, Cadao,vv... 💌</h3>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -387,57 +387,23 @@
                                         </div>
                                     </div>
                                 </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Meme 😂</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/meme.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div> 
 
 
-                              <h3 class="title title--h2 first-title title__separate">Danh Sách API 💌</h3>
+                              <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Gái 💌</h3>
                               <div class="row">
                               <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/XYywzsp3/02d4453f3eb0a76a87148433395b3ec3.gif" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Kiss 😘</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/kiss.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Đấm 👊</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/punch.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/Mc7rWvFv/12334wrwd534wrdf-1.gif" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Tát 🖐️</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/slap.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-                              
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="http://kenh14cdn.com/thumb_w/660/2018/7/19/gif-2-15319836727292050186373.gif" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Đá 🍄</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/spar.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/SNmDKzr1/hinh-anh-co-gai-cute-1-819x1024.jpg" height="55px">
@@ -459,6 +425,52 @@
                                     </div>
                                 </div>
 
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Gái Dú Bự 🙈</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaivuto.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Gái Mông To 🍑</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaiditbu.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/WbVjPmKd/269499943-1107188526760116-4609825776308771360-n.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Gái Sexy 💛</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaisexy.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/Qd8FPsJz/868h.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Nude 💞</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/nude.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+
 
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -475,86 +487,27 @@
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
-                                        <img src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Meme 😂</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/meme.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>   
-
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Mông To 🍑</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaiditbu.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>        
-
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Dú Bự 🙈</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaivuto.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/WbVjPmKd/269499943-1107188526760116-4609825776308771360-n.jpg" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Gái Sexy 💛</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/gaisexy.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>  
-
-
-                                 <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/661xKxrd/240527720-153472986999489-1827619954791027325-n-12.gif" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Hentai 💚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hentai.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div> 
-
-
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
                                         <img src="https://i.postimg.cc/yN2RtWnT/Bo-Anh-Nude-Girl-Xinh-Dit-Em-Gai-Vu-Bu-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Video Sex 💜</h4>
                                             <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/videosex.php')">COPY</button>
                                         </div>
                                     </div>
-                                </div>  
-                                
-                                
+                                </div>   
+
+                                  
+                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Trai 💌</h3>
+                                <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
-                                        <img src="https://i.postimg.cc/Qd8FPsJz/868h.jpg" height="55px">
+                                        <img src="https://i.postimg.cc/N01tYTKr/006amxlyly1fmpz7md3iqj31jk2bc7wk-1537769329620518488446.jpg" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Nude 💞</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/nude.php')">COPY</button>
+                                            <h4 class="title title--h4">API Ảnh Trai 💕</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/trai.php')">COPY</button>
                                         </div>
                                     </div>
-                                </div>
-
+                                </div>        
 
 
                                 <!-- Case Item -->
@@ -568,14 +521,78 @@
                                     </div>
                                 </div>
 
+                                    
+                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Hành Động 💌</h3>
+                                <div class="row">
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/XYywzsp3/02d4453f3eb0a76a87148433395b3ec3.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Hôn 😘</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/kiss.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>  
+
+
+                                 <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/4Nt9Mnnc/ezgif-com-624b1ca218.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Ôm 😍</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hug.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div> 
+
 
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
-                                        <img src="https://i.postimg.cc/N01tYTKr/006amxlyly1fmpz7md3iqj31jk2bc7wk-1537769329620518488446.jpg" height="55px">
+                                        <img src="https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Trai 💕</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/trai.php')">COPY</button>
+                                            <h4 class="title title--h4">API Ảnh Đấm 👊</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/punch.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>  
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/Mc7rWvFv/12334wrwd534wrdf-1.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Tát 🖐️</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/slap.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="http://kenh14cdn.com/thumb_w/660/2018/7/19/gif-2-15319836727292050186373.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Đá 🍄</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/spar.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                    
+                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Hành Động 18+ 💌</h3>
+                                <div class="row">
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/661xKxrd/240527720-153472986999489-1827619954791027325-n-12.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Hentai 💚</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hentai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>    
@@ -660,18 +677,6 @@
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Chơi Les 💦</h4>
                                             <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/choiles.php')">COPY</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                
-                                <!-- Case Item -->
-                                <div class="col-12 col-lg-6">
-                                    <div class="case-item">
-                                        <img src="https://i.postimg.cc/4Nt9Mnnc/ezgif-com-624b1ca218.gif" height="55px">
-                                        <div>&nbsp;
-                                            <h4 class="title title--h4">API Ảnh Ôm 😍</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/hug.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
