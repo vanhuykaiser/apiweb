@@ -18,7 +18,7 @@ $ditnhau = array(
 "author" => "TuanDeepTry",
 "success" => "true",
 );
-$rdimg = json_encode($hentai);
+$rdimg = json_encode($ditnhau);
 
 $i = ['\/v\/','\/','TuanDeepTry'];
 $t = ['/v/','/','TuanDeepTry'];
