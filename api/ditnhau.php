@@ -14,7 +14,7 @@ $url = array(
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
 $ditnhau = array(
-"data" => $tuandeeptry,
+"url" => $tuandeeptry,
 "author" => "TuanDeepTry",
 "success" => "true",
 );
