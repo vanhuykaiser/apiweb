@@ -363,7 +363,7 @@
                         <!-- What -->
                         <div class="mt-1">
 
-                            <h3 class="title title--h2 first-title title__separate">Danh Sách API Thính, Cadao,vv... 💌</h3>
+                            <h3 class="title title--h2 first-title title__separate">List API Thính, Cadao,vv... 💌</h3>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -413,7 +413,7 @@
                                 </div>
 
 
-                              <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Gái 💌</h3>
+                              <h3 class="title title--h2 first-title title__separate">List API Ảnh Gái 💌</h3>
                               <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -508,7 +508,7 @@
                                 </div>   
 
                                   
-                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Trai 💌</h3>
+                                <h3 class="title title--h2 first-title title__separate">List API Ảnh Trai 💌</h3>
                                 <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -534,7 +534,7 @@
                                 </div>
 
                                     
-                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Hành Động 💌</h3>
+                                <h3 class="title title--h2 first-title title__separate">List API Hành Động 💌</h3>
                                 <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -608,7 +608,7 @@
                                 </div>
 
                                     
-                                <h3 class="title title--h2 first-title title__separate">Danh Sách API Ảnh Hành Động 18+ 💌</h3>
+                                <h3 class="title title--h2 first-title title__separate">List API Hành Động 18+ 💌</h3>
                                 <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
