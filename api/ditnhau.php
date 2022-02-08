@@ -10,6 +10,7 @@ $url = array(
 "https://i.postimg.cc/m2tg4mYv/897-Nice-3-D-ride.gif",
 "https://i.postimg.cc/MZspgCQ0/f69b1921db0f9b229ddeb852e50366478d7da1f9.gif",
 "https://i.postimg.cc/jSfqwCkv/ksbuxiua5n741.gif",
+"https://i.postimg.cc/j2VGDVZ1/lXtSw6u.gif",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
