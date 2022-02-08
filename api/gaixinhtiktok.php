@@ -70,6 +70,17 @@ $url = array(
 "https://i.imgur.com/ob5C4SA.mp4",
 "https://i.imgur.com/EoqpjyI.mp4",
 "https://i.imgur.com/oBeM5et.mp4",
+"https://i.imgur.com/kKzhaqb.mp4",
+"https://i.imgur.com/vsKv8c4.mp4",
+"https://i.imgur.com/XQJO14w.mp4",
+"https://i.imgur.com/qJZ8S3o.mp4",
+"https://i.imgur.com/UNBkkEk.mp4",
+"https://i.imgur.com/DN9l8Ks.mp4",
+"https://i.imgur.com/cYO4kg7.mp4",
+"https://i.imgur.com/m0tZB5a.mp4",
+"https://i.imgur.com/bbSgoVa.mp4",
+"https://i.imgur.com/xLD0MfG.mp4",
+"https://i.imgur.com/sEL78bH.mp4",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
