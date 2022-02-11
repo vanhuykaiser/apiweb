@@ -363,7 +363,7 @@
                         <!-- What -->
                         <div class="mt-1">
 
-                            <h3 class="title title--h2 first-title title__separate">List API Thính, Cadao,vv... 💌</h3>
+                            <h3 class="title title--h2 first-title title__separate">Danh Sách API Tổng Hợp 💌</h3>
                             <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -411,9 +411,8 @@
                                         </div>
                                     </div>
                                 </div>
-
-
-                              <h3 class="title title--h2 first-title title__separate">List API Ảnh Gái, Trai 💌</h3>
+ 
+                                
                               <div class="row">
                               <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
@@ -532,7 +531,6 @@
                                 </div>
 
                                     
-                                <h3 class="title title--h2 first-title title__separate">List API Hành Động 💌</h3>
                                 <div class="row">
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
