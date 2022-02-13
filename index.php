@@ -529,6 +529,18 @@
                                         </div>
                                     </div>
                                 </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/g0Bn37S3/Hf8e286381f7a46afb6e24d70d1948ad1l.webp" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Anime 💘</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/anime.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
                                     
                                 <div class="row">
