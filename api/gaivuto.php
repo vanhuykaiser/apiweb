@@ -332,6 +332,18 @@ $url = array(
 "https://i.postimg.cc/9QNqWJsN/273684061-249520380691854-3285028032621870790-n.jpg",
 "https://i.postimg.cc/vHfPx6Gz/4d0e9e4c7d5fb101e84e.jpg",
 "https://i.postimg.cc/BvLPt20Z/b52fd59a3789fbd7a298.jpg",
+"https://i.postimg.cc/x8Dcqz8m/026e608b3fa9f3f7aab814.jpg",
+"https://i.postimg.cc/hj7XSrDg/09c265283a0af654af1b13.jpg",
+"https://i.postimg.cc/HkBc3nvG/1000c4af9b8d57d30e9c6.jpg",
+"https://i.postimg.cc/tgc1QfH2/1824daca85e849b610f99.jpg",
+"https://i.postimg.cc/nhH9vBkY/1dd2f504d2e646f6b651bbc5355074a7.jpg",
+"https://i.postimg.cc/QxDF31RG/7172a3e5f0c73c9965d6.jpg",
+"https://i.postimg.cc/tgJ1cb8s/7d38e3dcbcfe70a029ef18.jpg",
+"https://i.postimg.cc/3NXWGx0c/a33196d5c9f705a95ce616.jpg",
+"https://i.postimg.cc/2jh1M297/a56b6e8231a0fdfea4b110.jpg",
+"https://i.postimg.cc/NjJFmVLB/b9e0ee07b1257d7b243419.jpg",
+"https://i.postimg.cc/g2krwdzg/g1-WNWann-PBm3j-M8-St-U7j.jpg",
+"https://i.postimg.cc/TYcpYh6y/image.jpg",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
