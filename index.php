@@ -411,6 +411,18 @@
                                         </div>
                                     </div>
                                 </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Game Tài Xỉu 😂</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://api-vip.rztuandeeptrairz140703x18.repl.co/game/taixiu')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
  
                                 
                               <div class="row">
