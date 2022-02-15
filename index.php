@@ -541,6 +541,18 @@
                                         </div>
                                     </div>
                                 </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/XqMYmYyW/2-e1587889792216.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Couple 💕</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz2250api.herokuapp.com/api/couple.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
                                     
                                 <div class="row">
