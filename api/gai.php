@@ -525,6 +525,16 @@ $url = array(
 "https://i.postimg.cc/2S6RrfYB/hot-gymer-quang-ninh-so-huu-body-hap-dan-trieu-co-gai-uoc-ao-hinh-16.jpg",
 "https://i.postimg.cc/3xcMwbrf/Nhu-ng-co-ga-i-e-p-nhu-ng-na-ng-ga-i-xinh-so-hu-u-gu-o-ng-ma-t-nhu-thie-n-tha-n3.jpg",
 "https://i.postimg.cc/MGMCfbv6/suahloanhnong1.jpg",
+"https://i.postimg.cc/YSX5PfwN/004aab23822f4d71143e8.jpg",
+"https://i.postimg.cc/x1PDvVx4/1ffeae90879c48c2118d12.jpg",
+"https://i.postimg.cc/sfGknhHS/416dea1dc3110c4f550024.jpg",
+"https://i.postimg.cc/nzCyfjHy/43e4718d588197dfce9010.jpg",
+"https://i.postimg.cc/vHRpCZCK/44982ae903e5ccbb95f417.jpg",
+"https://i.postimg.cc/k4zkJJGB/52ba66cb4fc78099d9d616.jpg",
+"https://i.postimg.cc/W4bRSYxb/62eb67edabd1648f3dc010.jpg",
+"https://i.postimg.cc/Y0FTj5L8/64b725dd0cd1c38f9ac07.jpg",
+"https://i.postimg.cc/dt8zFKYV/aa85e0e9c9e506bb5ff427.jpg",
+"https://i.postimg.cc/DwnRyYvd/bee99398ba9475ca2c8515.jpg",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
