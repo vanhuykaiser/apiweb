@@ -384,6 +384,20 @@ $url = array(
 "https://i.postimg.cc/x1vJD7vH/tuyen-tap-anh-mong-to-goi-cam.jpg",
 "https://i.postimg.cc/6qtbcFf0/hanhbichtran-8-2817-29.jpg",
 "https://i.postimg.cc/NFDJzbNw/hanhbichtran-8-2837-29.jpg",
+"https://i.postimg.cc/zBMKM271/275099997-150675484123590-2728649724912014038-n.jpg",
+"https://i.postimg.cc/1t4Dv1pH/2eda7bab52a79df9c4b621.jpg",
+"https://i.postimg.cc/N0CH9CWr/308174f05dfc92a2cbed22.jpg",
+"https://i.postimg.cc/WzkgPmYq/37ddd0b6f9ba36e46fab3.jpg",
+"https://i.postimg.cc/jSKNG7HC/5558eb28c2240d7a543523.jpg",
+"https://i.postimg.cc/y6M0y5Wm/7f7e690f40038f5dd61219.jpg",
+"https://i.postimg.cc/XY8F3YLL/8168d95bff9e30c0698f.jpg",
+"https://i.postimg.cc/vB16WLs2/873467504e5c8102d84d1.jpg",
+"https://i.postimg.cc/GhvG7QsZ/986c3d46f17a3e24676b7.jpg",
+"https://i.postimg.cc/Vvnrhf5j/a4df69fea5c26a9c33d31.jpg",
+"https://i.postimg.cc/RCHHhRGN/aecd0fbe26b2e9ecb0a328.jpg",
+"https://i.postimg.cc/htSzCqnd/e49144e16deda2b3fbfc25.jpg",
+"https://i.postimg.cc/150Vc3kS/e514fe7fd773182d41624.jpg",
+"https://i.postimg.cc/YqBmWWy8/ee4e2e240728c87691395.jpg",
 );
 $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
