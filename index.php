@@ -416,6 +416,18 @@
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
+                                        <img src="https://i.postimg.cc/3NGKXfpv/thayboi-1.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Thầy Bói 🔮</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/thayboi.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
                                         <img src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Game Tài Xỉu 🎲</h4>
@@ -428,10 +440,22 @@
                                 <!-- Case Item -->
                                 <div class="col-12 col-lg-6">
                                     <div class="case-item">
-                                        <img src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif" height="55px">
+                                        <img src="https://i.postimg.cc/05wHs1Cs/maxresdefault.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Câu Nói Joker ️🎭</h4>
                                             <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/joker.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/dtD31nLw/5a690dddceca0b9452db6.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Help ️🎐</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/help.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
