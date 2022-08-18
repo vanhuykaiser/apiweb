@@ -529,6 +529,30 @@
                                         </div>
                                     </div>
                                 </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/SxpTkZgj/240937510-1593147947697638-7563885741527262074-n.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Instagram 🌸</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/ig.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.pixxxels.cc/4xZMpZCm/zfCipP4.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh TW 👀</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/ig.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                                 <!-- Case Item -->
@@ -586,6 +610,42 @@
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Anime 💘</h4>
                                             <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/anime.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/k5h6wZV1/t-i-xu-ng.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Mirai 🎀</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/mirai.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/T1T6b2RZ/7-Y2-Oh-Jqevdv7-Kiuaw05-Jl3-Ho3e6-XJU7-V4p6-YN5vk-SLs.webp" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh Itachi 🔥</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/itachi.php')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                  
+                                  
+                                  <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/zX65yyw0/Kashima-Kantai-Collection-full-1974540.jpg" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Ảnh LOLI 🔞</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/loli.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
