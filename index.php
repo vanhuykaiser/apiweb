@@ -315,7 +315,7 @@
                         <img class="header__photo-img" src="./img/avatar.jpeg" alt="Quyền My">
                     </div>
                     <div class="header__base-info">
-                        <h2 class="title titl--h1"><b>👾 Minh Tuấn 👾</b></h2>
+                        <h2 class="title titl--h1"><b>👾 Minh Tuan 👾</b></h2>
                         <div class="skill-item" style="color: #FF66FF;"><b>❤️ Tuấn DeepTry ❤️</b></div>
                         <ul class="header__social">
                             <li><a href="https://www.facebook.com/TuannDzz123" target="_blank"><span class="nav-link-icon mr-1">
@@ -418,8 +418,20 @@
                                     <div class="case-item">
                                         <img src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif" height="55px">
                                         <div>&nbsp;
-                                            <h4 class="title title--h4">API Game Tài Xỉu 😂</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://api-vip.tuandz2250.repl.co/game/taixiu')">COPY</button>
+                                            <h4 class="title title--h4">API Game Tài Xỉu 🎲</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://tuandz1407.ducdz999.repl.co/taixiu')">COPY</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                                <!-- Case Item -->
+                                <div class="col-12 col-lg-6">
+                                    <div class="case-item">
+                                        <img src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif" height="55px">
+                                        <div>&nbsp;
+                                            <h4 class="title title--h4">API Câu Nói Joker ️🎭</h4>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/joker.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
